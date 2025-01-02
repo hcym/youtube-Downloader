@@ -7,7 +7,7 @@
 [![GitHub downloads](https://img.shields.io/github/downloads/KurtBestor/Hitomi-Downloader/latest/total.svg?logo=github)](https://github.com/KurtBestor/Hitomi-Downloader/releases/latest)
 [![GitHub downloads](https://img.shields.io/github/downloads/KurtBestor/Hitomi-Downloader/total.svg?logo=github)](https://github.com/KurtBestor/Hitomi-Downloader/releases)
 
-## Links
+## Linkss
 - [Download](https://github.com/KurtBestor/Hitomi-Downloader/releases/latest)
 - [Issues](https://github.com/KurtBestor/Hitomi-Downloader/issues)
 - [Scripts & Plugins](https://github.com/KurtBestor/Hitomi-Downloader/wiki/Scripts-&-Plugins)
